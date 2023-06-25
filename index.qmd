@@ -149,4 +149,4 @@ plot(aoi$geometry, lwd = 2, add = T)
 
 # Resultados
 
-Ardienron 40,000 hectáreas.
+Ardieron 40,000 hectáreas
